@@ -41,9 +41,9 @@ Exec=/path/to/dist/xD
 Icon=/path/to/app_icon.png
 Type=Application
 Categories=Utility;Application;
-Replace /path/to/dist/xD with the full path to your executable.
+Terminal=false
 ````
-
+Replace /path/to/dist/xD with the full path to your executable.
 Replace /path/to/app_icon.png with the full path to your icon file.
 
 3. Save the Desktop Entry:
