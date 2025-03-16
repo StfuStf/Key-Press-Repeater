@@ -8,15 +8,16 @@ A tool to automate key presses at specified intervals.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/key-press-repeater.git
+   git clone https://github.com/StfuStf/Key-Press-Repeater.git
    cd key-press-repeater
 Install the dependencies:
 
-bash
-Copy
-pip install -r requirements.txt
-Install the package:
+````bash
+   pip install -r requirements.txt
+````
 
-bash
-Copy
+2.Install the package:
+
+````bash
 python setup.py install
+````
