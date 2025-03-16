@@ -9,7 +9,7 @@ A tool to automate key presses at specified intervals.
 1. Clone the repository:
    ```bash
    git clone https://github.com/StfuStf/Key-Press-Repeater.git
-   cd key-press-repeater
+   cd Key-Press-Repeater
 Install the dependencies:
 
 ````bash
